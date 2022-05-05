@@ -2,13 +2,19 @@
 
 ## hello 
 
-* Think about it
+* Think about it<br>really?
 
-* really?
+  -
+
+  -
+
+* Hi there !
 
 * you really think so 
 
-  [download](.image)
+  [加拿大签证](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
+
+  
 
 Hello there
 
@@ -18,7 +24,9 @@ Hello there
 
 `things`
 
-![截屏2022-05-04 22.47.34](/Users/dong/Desktop/截屏2022-05-04 22.47.34.png)
+The boy I love
+
+![安震威](./Images/安震威.png)
 
 ``` python
 python = get things from here
